@@ -1,3 +1,7 @@
-https://www.kaggle.com/puneet6060/intel-image-classification
+Link: <a href="https://www.kaggle.com/puneet6060/intel-image-classification">kaggle intel image classification</a>
 
-Apply InceptionResNetV6
+InceptionResNetV6 모델을 가져와서 사용했고 모델의 하단에 Fully Connected Layer를 추가했습니다.
+
+정확도는 약 85%정도 나왔고 8번정도만 넘어가도 오버피팅이 나서 모델을 직접 가져와서 약간 수정하면 더 좋을 것 같습니다.
+
+
