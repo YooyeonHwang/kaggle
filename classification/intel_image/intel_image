@@ -1,3 +1,5 @@
+Intel Image Classification
+==================
 Link: <a href="https://www.kaggle.com/puneet6060/intel-image-classification">kaggle intel image classification</a>
 
 InceptionResNetV6 모델을 가져와서 사용했고 모델의 하단에 Fully Connected Layer를 추가했습니다.
